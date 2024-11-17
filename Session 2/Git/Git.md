@@ -63,3 +63,14 @@ and thus it is possible to trace back your steps to any other marker in case you
 
 Just like these markers help you navigate the jungle, 
 Git commits help you manage and navigate the history of your project.
+
+### Example of Git Commit
+
+To create a commit, you first need to stage your changes using `git add`, and then commit them with a message describing the changes:
+
+```bash
+git add .
+git commit -m "Add initial project files"
+```
+
+This will create a commit with the message "Add initial project files" that you can refer to later.
