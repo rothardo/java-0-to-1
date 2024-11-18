@@ -19,16 +19,16 @@ You can pull changes directly from the upstream repository to your local reposit
     ```
 3. Merge the changes into your local branch:
     ```bash
-    git merge upstream/main
+    git merge upstream/master
     ```
 4. Push the changes to your origin repository:
     ```bash
-    git push origin main
+    git push origin master
     ```
 
 ### Easy Version:
 1. Link the main project repository to your local setup.
-2. Get the latest updates from the main project.
+2. Get the latest updates from the master project.
 3. Combine those updates with your local work.
 4. Send the updates to your personal GitHub repository.
 
@@ -41,21 +41,21 @@ Alternatively, you can sync your fork on GitHub itself and then pull the changes
 2. Click on the "Fetch upstream" button and then "Fetch and merge".
 3. Pull the changes to your local repository:
     ```bash
-    git pull origin main
+    git pull origin master
     ```
 
 ### Easy Version:
-1. Update your forked repository on GitHub with the latest changes from the main project.
+1. Update your forked repository on GitHub with the latest changes from the master project.
 2. Download those updates to your local setup.
 
 ## Creating a Pull Request
 
-To contribute your changes back to the main project, you need to create a pull request.
+To contribute your changes back to the master project, you need to create a pull request.
 
 ### Technical Steps:
 1. Push your changes to your origin repository:
     ```bash
-    git push origin main
+    git push origin master
     ```
 2. Go to your forked repository on GitHub.
 3. Click on the "New pull request" button.
@@ -64,7 +64,7 @@ To contribute your changes back to the main project, you need to create a pull r
 
 ### Easy Version:
 1. Send your updates to your personal GitHub repository.
-2. On GitHub, request to merge your updates into the main project that is the upstream.
+2. On GitHub, request to merge your updates into the master project that is the upstream.
 
 ## Example with Three People
 
