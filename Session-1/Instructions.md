@@ -12,4 +12,4 @@ Check out the problems for Session-1 here:
 
 Submit your solutions in the [Solutions](https://github.com/rothardo/java-0-to-1/blob/master/Session-1/Solutions) folder by creating a folder with your name, like this:
 
-[Session-1 Solutions](https://github.com/rothardo/java-0-to-1/blob/master/Session-1/Solutions/Yourname)
+Session-1/Solutions/'Yourname'
