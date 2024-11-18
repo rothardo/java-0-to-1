@@ -2,6 +2,8 @@
 
 When working on a project with multiple people, it's important to keep your local repository up-to-date with the latest changes. Here are some simple steps to pull changes from the origin or upstream repository.
 
+![Pull, Push and PR](https://github.com/rothardo/java-0-to-1/blob/master/Session-4/GIT2.png)
+
 ## Pulling Changes from Upstream to Local
 
 You can pull changes directly from the upstream repository to your local repository and then push those changes to your origin repository.
