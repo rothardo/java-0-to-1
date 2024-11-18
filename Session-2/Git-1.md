@@ -54,8 +54,13 @@ A repository is just like a folder that Git is holding you for all the changes m
 It's the place where everything about your project and their history is stored.
 
 ### Git Add
-`git add` is a command that commands Git to begin tracking the changes of a certain file. 
-It's something like choosing files that you want to save before you really save them.
+`git add` is a command that tells Git to start tracking changes to a specific file. 
+It's like selecting files you want to save before you actually save them.
+
+### Git Status
+`git status` is a command that shows you the current state of your project. 
+It tells you which files have been changed, which ones are staged for commit, and which ones are not being tracked by Git. 
+Think of it as a quick check-up to see what’s going on with your files before you save your changes.
 
 ### Commit
 A commit is a thing similar to a snapshot of your project at a particular time. 
