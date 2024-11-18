@@ -96,6 +96,9 @@ git checkout master
 git merge new-feature
 ```
 
+below is an image of the same
+![Git Merge](https://github.com/rothardo/java-0-to-1/blob/master/Session-3/GIT-MERGE.png)
+
 ## Handling Merge Conflicts
 
 When there are conflicting changes, Git will notify you. You need to manually resolve these conflicts.
