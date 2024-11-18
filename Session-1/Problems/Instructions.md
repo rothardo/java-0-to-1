@@ -1,7 +1,15 @@
-Here are a few problems in this directory. 
-Try to solve them with your own approach and create directories with your name on them. 
-Then, write down your approach in a text file and add it to your folder.
+Hello everyone,
 
-That's it!
+Welcome to the Problem Solving Session. 
 
-More problems will be added to this folder over time, so stay tuned.
+In this directory, you will find some problems to solve. Use your own methods to solve them and create a folder with your name. Write down your approach in a text file and add it to your folder.
+
+More problems will be added over time, so keep an eye out.
+
+Check out the problems for Session-1 here:
+
+[Session-1 Problems](https://github.com/rothardo/java-0-to-1/blob/master/Session-1/Problems)
+
+Submit your solutions in the [Solutions](https://github.com/rothardo/java-0-to-1/blob/master/Session-1/Solutions) folder by creating a folder with your name, like this:
+
+[Session-1 Solutions](https://github.com/rothardo/java-0-to-1/blob/master/Session-1/Solutions/Yourname)
