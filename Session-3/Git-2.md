@@ -97,7 +97,7 @@ git merge new-feature
 ```
 
 below is an image of the same
-![Git Merge](https://github.com/rothardo/java-0-to-1/blob/master/Session-3/GIT-MERGE.png)
+![Git Merge](https://github.com/rothardo/java-0-to-1/blob/master/Session-3/GIT-MERGE.png){ width=50% }
 
 ## Handling Merge Conflicts
 
