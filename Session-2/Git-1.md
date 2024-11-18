@@ -47,7 +47,7 @@ It enables several developers to work on a project at the same time without any 
 - **Tracking Changes**: 
     Git sees the changes on the file level, so you can view the changes made by whom and when.
 
-## Key Git Concepts in Laymen Terms
+## Key Git Concepts in Simple Terms
 
 ### Repository (Repo)
 A repository is just like a folder that Git is holding you for all the changes made to project files. 

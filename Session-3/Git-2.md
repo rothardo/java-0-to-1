@@ -171,7 +171,7 @@ git push origin new-feature
 
 A Pull Request (PR) is a way to propose changes to a repository.
 
-### Laymen Terms
+### Easy Terms
 
 A PR is like asking the project owner to pull in your changes.
 
