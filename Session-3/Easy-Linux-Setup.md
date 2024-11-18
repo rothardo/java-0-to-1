@@ -72,7 +72,9 @@ This indicates that `origin` points to your forked repository and `upstream` poi
 
 ## Making Changes
 
-Make your changes as per the instructions in each session's `instructions.md`.
+## Making Changes
+
+Make your changes as per the instructions in each session's [instructions.md](https://github.com/rothardo/java-0-to-1/blob/master/Session-3/Instructions.md).
 
 ## Committing and Pushing Changes
 
