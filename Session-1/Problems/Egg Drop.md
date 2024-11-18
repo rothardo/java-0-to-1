@@ -1,6 +1,6 @@
-Egg Dropping Problem (Identical Eggs, 100 Floors)
+# Egg Dropping Problem (Identical Eggs, 100 Floors)
 
-Problem:
+## Problem:
  
 You are given k identical eggs, and you need to find the minimum 
 number of drops required to determine the highest safe floor x 
@@ -12,7 +12,7 @@ The goal is to determine the critical floor, x,
 such that if an egg is dropped from floor x or higher, 
 it will break, and if dropped from a floor below x, it will not.
 
-Objective:
+## Objective:
 
 Determine the minimum number of drops required to identify the highest safe floor (x) in a 100-floor building. 
 Explain the reasoning behind the solution. 

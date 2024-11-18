@@ -1,6 +1,6 @@
+# Monty Hall Problem
 
-
-Problem:
+## Problem:
 
 You are on a game show.
 There are three doors.
@@ -11,7 +11,8 @@ opens one of the remaining doors to reveal a goat.
 The host then asks if you want to switch your choice to the other 
 unopened door or stick with your original choice.
 
-Objective:
+## Objective:
+
 When do you have a higher probability of winning the car: 
 if you switch your choice or if you stick with your original choice?
 and why?
