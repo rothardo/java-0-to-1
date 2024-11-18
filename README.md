@@ -12,4 +12,4 @@ There are more exciting sessions coming ahead. Check out `sessionlist.md`, which
 
 Happy coding!
 
-## - Ashwin Temkar
+## - Ashwin Temkar 
