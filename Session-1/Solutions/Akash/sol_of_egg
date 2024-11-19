@@ -1,0 +1,1 @@
+choose the floor as k= (start +end/2),then drop the egg from that floor , if the egg breaks ,apply start as1 , end as k, and apply same concept and if egg doesn't break, set start as k and end as 100. follow this until we get answer.
