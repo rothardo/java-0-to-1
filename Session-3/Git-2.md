@@ -96,6 +96,9 @@ git checkout master
 git merge new-feature
 ```
 
+below is an image of the same
+![Git Merge](https://github.com/rothardo/java-0-to-1/blob/master/Session-3/GIT-MERGE.png){ width=50% }
+
 ## Handling Merge Conflicts
 
 When there are conflicting changes, Git will notify you. You need to manually resolve these conflicts.
@@ -171,7 +174,7 @@ git push origin new-feature
 
 A Pull Request (PR) is a way to propose changes to a repository.
 
-### Laymen Terms
+### Easy Terms
 
 A PR is like asking the project owner to pull in your changes.
 
