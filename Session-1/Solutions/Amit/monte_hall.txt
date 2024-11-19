@@ -1,0 +1,8 @@
+There can be three  possibility or combination in which the car can be hidden behind the door . 
+suppose in first combination 1st door contains the car ,in 2nd , 2nd door contains the car and in 3rd ,3rd door contains the car . 
+Let's suppose in all times I have chosen 1st door . 
+In this situation the probability to win the car is 1/3 .   
+Now the organiser has reveled one door then , I am 100% sure that he had reveled door which  has goat . 
+Now if I will stay with  my original decision the out of three  the chance to whin the car is 1/3 because possibility to have the car behind the door one is 1/3 . 
+It means out of three times it fix that two times the other door contains the car .   
+But the organiser has reveled one door so if I will change my decision then possibility to win the car is 2/3 and to loose is 1/3 .
