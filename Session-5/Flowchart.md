@@ -1,6 +1,5 @@
-# Flowchart.md
 
-## What is a Flowchart?
+# What is a Flowchart?
 
 A flowchart is a simple way to represent how something works or how a process happens, using shapes and arrows. Itâ€™s like a visual map that shows steps in a sequence, making it easier to understand and follow the process from start to finish.
 
@@ -9,6 +8,7 @@ Imagine you're giving someone directions to your house. Instead of just saying â
 ## Common Shapes Used in Flowcharts
 
 Flowcharts use special shapes to represent different actions or steps. Here are the most common ones:
+
 
 1. **Oval (or Ellipse)**: This shape represents the start or end of a process.
    - Think of it as the "beginning" or "end" of your journey.
@@ -24,6 +24,8 @@ Flowcharts use special shapes to represent different actions or steps. Here are 
   
 5. **Arrows**: Arrows show the flow or direction from one step to the next.
    - Arrows are like the road connecting different points on your map.
+
+![Flowchart](https://github.com/rothardo/java-0-to-1/blob/master/Session-5/Flowchart-intro.png)
 
 ## Example of a Simple Flowchart
 
