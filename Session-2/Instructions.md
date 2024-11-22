@@ -1,6 +1,6 @@
 Hello everyone,
 
-Welcome to the Problem Solving Session for Session-2.
+Welcome to Session-2.
 
 Please read the notes on Git and version control available in the following file:
 
