@@ -1,1 +1,27 @@
-soln of 
+To  find the safest floor we can have many approach . 
+
+# 1st one.
+->  The first and brute force approach we have that i can check each floor , the will find the safest floor.
+
+
+
+# 2nd one . (Better approach to find the safest floor)
+-> The second we can check the alternative floor from bottom , and from where the egg will break first time (suppose nth) then (n-1)th floor will be the safest floor.
+
+
+# 3rd one .(Better approach than previous both)
+->  The third we can do that we will check each floor gapping with 2 floor (means every (2n+1)th floor) from the bottom. 
+From where the  egg will break first time(suppose kth ) the (k-2)th or (k-1)th  will be safest floor which we will check be alternatively checking the both (n-1)th and (n-2)th  floor.
+
+****    similarly we can check the every 3rd or 4th floor which will further better solution to our problem . 
+
+
+
+## Most efficient approach .
+ %% I am supposing that the lowest floor is 0th flooe and highest floor is the nth floor . %%
+->  I will cheak the middle floor (means (n/2)th ).
+->  If the egg will break then I will cheak the (n/2 -1 )th floor if it will break then then (n/2-1)th will be my safest floor.
+        If it will not break , then i will suppose (n/2)th floor as highest .
+->  If the egg will then i not break I will check (n/2 + 1)th floor , if it breaks then (n/2)th floor will be our safest floor  
+        if not , then I will suppose the miggle floor as lowest floor. 
+->  We will perform the this task untill our desired floor.
