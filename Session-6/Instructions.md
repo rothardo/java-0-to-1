@@ -3,7 +3,7 @@ Hello everyone,
 Welcome to **Session 6**.
 
 For today's session, we will be covering **Pseudocode**. Please read the session notes on pseudocode in the following link:  
-[Pseudocode Introduction](https://github.com/rothardo/java-0-to-1/blob/master/Session-5/Flowchart.md).
+[Pseudocode Introduction](https://github.com/rothardo/java-0-to-1/blob/master/Session-6/Pseudocode).
 
 Make sure to practice the concepts from the earlier sessions:
 
