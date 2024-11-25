@@ -14,7 +14,7 @@ Make sure to practice the concepts from the earlier sessions:
 - [Session 5](https://github.com/rothardo/java-0-to-1/blob/master/Session-5/Instructions.md)
 - [Session 6](https://github.com/rothardo/java-0-to-1/blob/master/Session-6/Instructions.md)
 
-**Important:** Please check out the **Problems** folder in [Problems Directory](https://github.com/rothardo/java-0-to-1/blob/master/Session-6/Problems).  
+**Important:** Please use the previous examples of problems in - [Session 1](https://github.com/rothardo/java-0-to-1/blob/master/Session-1/Instructions.md) and then add it to the **Problems** folder in [Problems Directory](https://github.com/rothardo/java-0-to-1/blob/master/Session-6/Problems).  
 Solve the problems and write your answers in the individual folders within the [Solutions](https://github.com/rothardo/java-0-to-1/blob/master/Session-6/Solutions) folder.
 
 Also make sure 
