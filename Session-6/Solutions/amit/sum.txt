@@ -1,0 +1,5 @@
+start the programe.
+input the 1st and 2nd number
+perform the addition of 1st and 2nd  and store them into another (suppose c)
+print : c 
+end 
