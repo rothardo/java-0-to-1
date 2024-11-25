@@ -8,8 +8,10 @@ Get ready to embark on this exciting journey and become a confident Java develop
 
 For more information, join our [Discord community](https://discord.gg/xRDNeWU). You can also fork this repo, and if you like these sessions and the curriculum, please leave a star on the repo.
 
-There are more exciting sessions coming ahead. Check out `sessionlist.md`, which will be updated every day with the topics you are looking for.
+There are more exciting sessions coming ahead. Check out [`Sessions`](https://github.com/rothardo/java-0-to-1/blob/master/sessionlist.md), which will be updated every day after each session with the topics you are looking for.
+
+If you like the Sessions please make sure to Star the Repo and also join using this [Link](https://forms.gle/t6h96cy4ZwYyMqoj9)
 
 Happy coding!
 
-## - Ashwin Temkar
+## - [Ashwin Temkar](https://github.com/rothardo)
