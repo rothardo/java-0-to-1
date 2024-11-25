@@ -168,31 +168,6 @@ git push origin master
 git push origin new-feature
 ```
 
-# Pull Request (PR)
+## How to Create a PR?
 
-## What is a PR?
-
-A Pull Request (PR) is a way to propose changes to a repository.
-
-### Easy Terms
-
-A PR is like asking the project owner to pull in your changes.
-
-### Technical Terms
-
-A PR is a request to merge your branch into another branch in the repository.
-
-### Example
-
-```sh
-# Create a new branch
-git checkout -b new-feature
-
-# Make changes and commit
-git commit -am "Add new feature"
-
-# Push the branch to remote
-git push origin new-feature
-
-# Create a PR on GitHub
-```
+Please go to [PullRequest](https://github.com/rothardo/java-0-to-1/blob/master/Session-3/PullRequest.md) to know more
