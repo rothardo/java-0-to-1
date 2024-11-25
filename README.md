@@ -8,7 +8,8 @@ Get ready to embark on this exciting journey and become a confident Java develop
 
 For more information, join our [Discord community](https://discord.gg/xRDNeWU). You can also fork this repo
 
-## If you like these sessions and the curriculum, please star the repo: [java-0-to-1](https://github.com/rothardo/java-0-to-1)
+## If you like these sessions and the curriculum, please star the repo: 
+[java-0-to-1](https://github.com/rothardo/java-0-to-1)
 
 
 There are more exciting sessions coming ahead. Check out [`Sessions`](https://github.com/rothardo/java-0-to-1/blob/master/sessionlist.md), which will be updated every day after each session with the topics you are looking for.
