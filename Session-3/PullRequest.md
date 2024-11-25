@@ -42,17 +42,19 @@ Here's a practical example using GitHub:
 
 2. **Clone the Fork:** Clone your forked repository to your local machine:
 
-   git clone <your_forked_repo_url>
+   `git clone <your_forked_repo_url>`
 
 3. **Create a Branch:** Create a new branch for your changes:
 
-   git checkout -b my-new-feature
+   `git checkout -b my-new-feature`
 
 4. **Make Changes, Commit, and Push:** Make your changes, commit them with meaningful messages, and push your branch to your forked repository:
 
+```sh
    git add .
    git commit -m "Add new feature"
    git push origin my-new-feature
+```
 
 5. **Create the Pull Request on GitHub:** Go to your forked repository on GitHub. You should see a notification to create a pull request. Click it, review your changes, and submit the PR.
 
