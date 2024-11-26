@@ -3,7 +3,7 @@ Hello everyone,
 Welcome to **Session 5**.
 
 For today's session, we will be covering **Flowcharts**. Please read the session notes on flowcharts in the following link:  
-[Git-5: Flowchart Introduction](https://github.com/rothardo/java-0-to-1/blob/master/Session-5/Flowchart.md).
+[Flowchart Introduction](https://github.com/rothardo/java-0-to-1/blob/master/Session-5/Flowchart.md).
 
 Make sure to practice the concepts from the earlier sessions:
 
