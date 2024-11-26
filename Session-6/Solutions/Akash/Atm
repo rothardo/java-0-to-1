@@ -1,0 +1,19 @@
+B-> ATM
+1.  Start
+2. ask the user for the pin
+3. checks the pin with if else conditionals.
+4. if pin is wrong, wrong pin.
+5. else
+6. three options-> 1. check balance 2.withdraw  3. deposit
+7. if user enters option 1 ->
+8. Simply dis[play the balance
+9. if option 2-> 
+10.  first check if the balance is >= withdraw amount
+11.     if condition is true
+12.       then withdraw the amount and subtract the withdrawed amount from the balance.
+13.     else -> withdrawal unsuccessfull.
+14.   then finally print the updated balance
+15.if option 3->
+16. enter the amount u want to deposit
+17. then simply update the balance with this deposited money by adding
+18. stop

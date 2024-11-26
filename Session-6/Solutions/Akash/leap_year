@@ -1,0 +1,11 @@
+E->Leap year
+1. start
+2. enter the year 
+3. if->(year%4==0)
+4.   print the year as leap year.
+5. else 
+6.  else if(year%100==0 && year%400==0)
+7.    print the year as leap year.
+8.  else if ->
+9.    print year is not a leap year.
+10.stop
