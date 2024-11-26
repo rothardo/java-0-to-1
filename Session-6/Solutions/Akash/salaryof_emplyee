@@ -1,0 +1,15 @@
+D-> Salary of the employee
+1. start
+2. enter the number of hours worked in a week
+3. if hours is >=40 then
+4.    calculate sal1 as $15 * 40 
+5.    then calculate sal2 as $15 * (worked hours -40).
+6.    calculate salary as -> add sal and sal2 then subtract  $100 from this.
+7.  simply do this for all four weeks of the month and add all these to the final salary
+8.  this is the total salary.
+9.else 
+10. calculate salary as $15 * worked hours
+11. then deduct $100 from this salary
+12. simply do this for all four weeks. and add it to the final salary
+13. print the final calculated salary.
+14.stop

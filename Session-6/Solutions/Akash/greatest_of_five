@@ -1,0 +1,8 @@
+C-> Greatest of five numbers
+1. start
+2. enter the 5 numbers u want to check
+3. runs conditionals if n1 is greater than others with the help of && operator.
+4. then print n1 as greatest of these five numbers.
+5. simply make else if conditions for others num(i.e., n2, n3, n4,n5)
+6. and print the greatest.
+7. stop
