@@ -10,14 +10,31 @@ public class VariableDeclaration {
         boolean booleanvalue = false;
         String stringvalue = "Ayush's Assignment";
 
-        System.out.println("byte: " + bytevalue);
-        System.out.println("short: " + shortvalue);
-        System.out.println("int: " + intvalue);
-        System.out.println("long: " + longvalue);
-        System.out.println("float: " + floatvalue);
-        System.out.println("double: " + doublevalue);
-        System.out.println("char: " + charvalue);
-        System.out.println("boolean: " + booleanvalue);
-        System.out.println("string: " + stringvalue);
+        System.out.print("Byte value: ");
+        System.out.println(bytevalue);
+
+        System.out.print("Short value: ");
+        System.out.println(shortvalue);
+
+        System.out.print("Integer value: ");
+        System.out.println(intvalue);
+
+        System.out.print("Long value: ");
+        System.out.println(longvalue);
+
+        System.out.print("Float value: ");
+        System.out.println(floatvalue);
+
+        System.out.print("Double value: ");
+        System.out.println(doublevalue);
+
+        System.out.print("Character value: ");
+        System.out.println(charvalue);
+
+        System.out.print("Boolean value: ");
+        System.out.println(booleanvalue);
+
+        System.out.print("String value: ");
+        System.out.println(stringvalue);
     }
 }
