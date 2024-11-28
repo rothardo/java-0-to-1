@@ -52,8 +52,6 @@ Welcome to the course! Below is the index of all the sessions and their respecti
 - [Squash](https://github.com/rothardo/java-0-to-1/blob/master/Session-7/Squash.md)
 - [Stash](https://github.com/rothardo/java-0-to-1/blob/master/Session-7/Stash.md)
 
-Here’s the updated version of the structure based on your provided directory layout:
-
 ### Session-8
 - [Instructions for Session-8](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/Instructions.md)
 - [Installation of JDK](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/InstallationJDK.md)
