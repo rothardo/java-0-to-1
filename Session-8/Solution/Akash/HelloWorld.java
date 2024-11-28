@@ -1,4 +1,4 @@
-public class HelloWord {
+public class HelloWorld {
     public static void main(String[] args) {
         // Byte datatype
         byte byt = 127;
