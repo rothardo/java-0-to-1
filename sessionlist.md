@@ -52,11 +52,19 @@ Welcome to the course! Below is the index of all the sessions and their respecti
 - [Squash](https://github.com/rothardo/java-0-to-1/blob/master/Session-7/Squash.md)
 - [Stash](https://github.com/rothardo/java-0-to-1/blob/master/Session-7/Stash.md)
 
+Here’s the updated version of the structure based on your provided directory layout:
+
 ### Session-8
+- [Instructions for Session-8](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/Instructions.md)
+- [Installation of JDK](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/InstallationJDK.md)
 - [Introduction to Java](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/IntroToJava.md)
-- [Hello World Program](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/HelloWorld.java)
+- [First Java Program](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/FirstJavaProgram.md)
+- [Hello World Program (Java Source)](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/HelloWorld.java)
 - [Data Types in Java](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/DataTypes.md)
 - [Java Data Types Example](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/DataTypesExample.java)
+- [Compiler and Interpreter](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/CompilerAndInterpreter.png)
+- [Platform Independence](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/PlatformIndependence.png)
+
 
 
 ---
