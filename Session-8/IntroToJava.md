@@ -27,6 +27,7 @@ The interpreter (which is part of the JVM) is like that chef who reads this univ
 
 The cool thing is, even if you write your program on a Windows computer, this "universal cooking language" (bytecode) can be "cooked" (run) on any computer - Mac, Linux, or Windows. That's why Java's slogan is "Write Once, Run Anywhere!" (WORA)
 
+![Compiler and Interpreter](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/CompilerAndInterpreter.png)
 
 # Understanding Java's Platform Independence and JDK's Dependence
 
