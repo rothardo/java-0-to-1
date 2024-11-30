@@ -1,14 +1,14 @@
-start the programe .
-enter the pin
+step 1 - start the programe .
+step 2 - enter the pin
 
-if pin is correct.
-   enter the withdrawal amount.
+step 3 - if pin is correct.
+step 4 - enter the withdrawal amount.
 
-   if withdrawal_amount<balance
-   balance=balance-withdrawal_amount
-   print : balance
+step 5 - if withdrawal_amount<balance
+step 6 - balance=balance-withdrawal_amount
+step 7 - print : balance
 
-   else print : not sufficient balance 
+step 8 - else print : not sufficient balance 
 
-end if
+step 9 - end if
 
