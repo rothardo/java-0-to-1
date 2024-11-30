@@ -6,7 +6,7 @@ step 3 - make the copy of that string and store it into another variable.
 // from here we can go through two method.
 method 1st .
 
-step 4 - reverse the copied string 
+step 4 -  reverse the copied string 
 step 5 - take a loop starting from i=0 till the end of the length of the string.
 step 6 -        if s_original[i]!=s_copied[i];
 step 7 -        return false 
