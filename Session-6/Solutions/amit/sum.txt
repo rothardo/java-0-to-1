@@ -1,5 +1,0 @@
-start the programe.
-input the 1st - a and 2nd- b number
-perform the addition of 1st and 2nd  and store them into another (suppose c)  (c=a+b)
-print : c 
-end 
