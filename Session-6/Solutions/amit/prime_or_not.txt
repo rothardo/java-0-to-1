@@ -1,17 +1,17 @@
-START THE PROGRAME.
+step 1 - START THE PROGRAME.
 
-if n==1
-print - number is not prime.
+step 2 - if n==1
+step 3 - print - number is not prime.
 
-if n==2
-print - number is prime.
+step 3 - if n==2
+step 4 - print - number is prime.
 
-start a for loop starting from 2 to n/2+1 
-if n%i==0
-print  : no is not prime
+step 5 - start a for loop starting from 2 to n/2+1 
+step 6 - if n%i==0
+step 7 - print  : no is not prime
 return
-end the loop.
+step 8 - end the loop.
 
-print : no is prime
-return 
+step 9 - print : no is prime
+step 10 - return 
 
