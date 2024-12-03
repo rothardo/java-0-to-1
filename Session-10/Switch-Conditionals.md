@@ -1,4 +1,4 @@
-### ** Switch Statement**
+### Switch Statement
 
 **Technical Definition:**
 A **switch** statement is a way to select one of many code blocks to be executed based on a variable's value. It’s often used when there are multiple possible values for a variable, and you want to run different code for each value.

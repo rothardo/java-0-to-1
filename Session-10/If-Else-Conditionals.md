@@ -1,9 +1,9 @@
-### ** If-Else Conditionals**
+### If-Else Conditionals
 
 **Technical Definition:**
 The **if-else** statement is used to execute one block of code if a condition is true and another block of code if it is false.
 
-**In Layman's Terms:**
+**In Simple Terms:**
 Think of the **if-else** statement like a simple choice you have to make:
 
 - **If** something is true, do this.

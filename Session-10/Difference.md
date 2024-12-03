@@ -1,4 +1,4 @@
-### **3. Differences Between If-Else and Switch**
+###  Differences Between If-Else and Switch
 
 | Feature                  | If-Else Statement                                                                 | Switch Statement                                               |
 | ------------------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------- | --- |

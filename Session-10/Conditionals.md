@@ -1,4 +1,4 @@
-#### **Conditionals in Programming (Java)**
+#### Conditionals in Programming (Java)
 
 **Conditionals** are an essential part of any programming language, and Java is no exception. They allow the program to make decisions based on different conditions or criteria. This enables the program to follow different execution paths depending on whether a condition is true or false. The most common conditional statements in Java are **if-else** and **switch**.
 
