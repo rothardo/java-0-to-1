@@ -70,6 +70,22 @@ Welcome to the course! Below is the index of all the sessions and their respecti
 - [Compilation and Execution Process](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/Representation.png)
 - [Runtime vs Compile Time](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/runtime-compiletime.png)
 
+
+
+Here is the updated version of the instructions for **Session 10**:
+
+---
+
+### **Session-10**
+- [Instructions for Session-10](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/Instructions.md)
+- [Conditionals Overview](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/Conditionals.md)
+- [If-Else Conditionals](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/If-Else-Conditionals.md)
+- [Switch Statements](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/Switch-Conditionals.md)
+- [Difference Between If-Else and Switch](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/Difference.md)
+- [When to Use If-Else and Switch](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/WhenToUse.md)
+- [IfElseExample.java](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/IfElseExample.java)
+- [SwitchExample.java](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/SwitchExample.java)
+
 ---
 
 ### How to Navigate:
