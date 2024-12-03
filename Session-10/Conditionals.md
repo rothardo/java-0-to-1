@@ -7,7 +7,7 @@ In this session, we will dive into the following topics:
 - [**If-Else Conditionals**](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/If-Else-Conditionals.md)
 - [**Switch Statements**](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/Switch-Conditionals.md)
 - [**Differences Between If-Else and Switch**](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/Difference.md)
-- **When to Use Which Conditional?**
+- [**When to Use Which Conditional?**](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/WhenToUse.md)
 
 ---
 
