@@ -1,0 +1,1 @@
+7. **Temperature Check**: Write a program that takes the temperature and prints whether it’s cold, warm, or hot. (Cold < 10°C, Warm between 10°C and 25°C, Hot > 25°C).

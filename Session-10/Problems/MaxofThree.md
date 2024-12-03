@@ -1,0 +1,1 @@
+3. **Max of Three**: Write a program that finds the maximum of three numbers.

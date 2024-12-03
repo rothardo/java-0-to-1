@@ -1,0 +1,1 @@
+4. **Grade Check**: Write a program that takes a number (marks) and prints whether the student has passed or failed based on a passing score of 50.

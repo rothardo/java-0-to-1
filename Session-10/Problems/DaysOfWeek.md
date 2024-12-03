@@ -1,0 +1,1 @@
+5. **Days of the Week**: Write a program that takes a number between 1 and 7 and prints the corresponding day of the week (1 for Monday, 2 for Tuesday, etc.).

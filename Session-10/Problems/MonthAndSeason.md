@@ -1,0 +1,1 @@
+8. **Month to Season**: Write a program that takes the month number (1–12) and prints the season (Winter, Spring, Summer, Fall).

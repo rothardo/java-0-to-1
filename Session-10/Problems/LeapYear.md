@@ -1,0 +1,1 @@
+6. **Leap Year**: Write a program that determines whether a given year is a leap year or not.
