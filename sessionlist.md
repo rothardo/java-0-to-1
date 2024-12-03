@@ -63,7 +63,12 @@ Welcome to the course! Below is the index of all the sessions and their respecti
 - [Compiler and Interpreter](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/CompilerAndInterpreter.png)
 - [Platform Independence](https://github.com/rothardo/java-0-to-1/blob/master/Session-8/PlatformIndependence.png)
 
-
+### Session-9
+- [Instructions for Session-9](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/Instructions.md)
+- [Java Architecture](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/Architecture.md)
+- [JDK and JRE Overview](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/JDK.png)
+- [Compilation and Execution Process](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/Representation.png)
+- [Runtime vs Compile Time](https://github.com/rothardo/java-0-to-1/blob/master/Session-9/runtime-compiletime.png)
 
 ---
 
