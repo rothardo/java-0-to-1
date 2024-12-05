@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 public class odd_or_even {
     public static void main (String[] args){
         Scanner sc =new Scanner (System.in);
