@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MaxOfThree {
+public class max_of_three {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -13,12 +13,16 @@ public class MaxOfThree {
         System.out.print("ENTER THE NUMBER 3: ");
         int num3 = sc.nextInt();
 
+        int maxim;
+
         if (num1 >= num2 && num1 >= num3) {
-            System.out.println("THE GREATEST IS " + num1);
+            maxim=num1;
         } else if (num2 >= num1 && num2 >= num3) {
-            System.out.println("THE GREATEST IS " + num2);
+            maxim=num2;
         } else {
-            System.out.println("THE GREATEST IS " + num3);
+            maxim=num3;
         }
+
+        System.out.println("MAXIMUM NUMBER IS " +maxim);
     }
 }
