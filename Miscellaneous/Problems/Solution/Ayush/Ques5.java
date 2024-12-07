@@ -8,6 +8,7 @@ public class Ques5 {
         System.out.println("Press 4 for Money Transfer");
         Scanner input = new Scanner(System.in);
         int operation = input.nextInt();
+        int originalpin=8087;
         float balance = 0;
         switch(operation){
             case 1:
@@ -32,15 +33,21 @@ public class Ques5 {
             case 4:
                 System.out.println("Enter the pin for verification");
                 int pin = input.nextInt();
-                System.out.println("Enter the amount to transfer");
-                float transferamount = input.nextFloat();
-                if(transferamount>20000){
-                    System.out.println("Amount is above the transactions limits ");
+                if(originalpin==pin){
+                    System.out.println("Enter the Account number of the receiver");
+                    int accno = input.nextInt();
+                    System.out.println("Enter the amount to transfer");
+                    float transferamount = input.nextFloat();
+                    if(transferamount>20000){
+                        System.out.println("Amount is above the transactions limits ");
+                    }else{
+                        System.out.println("Successfully amount transferred");
+                    }
                 }else{
-                    System.out.println("Successfully amount transferred");
+                    System.out.println("Wrong pin entered");
                 }
                 break;
-                }
+        }
 
-        }
-        }
+    }
+}

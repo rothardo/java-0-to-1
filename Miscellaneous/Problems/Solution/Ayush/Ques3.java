@@ -13,17 +13,17 @@ public class Ques3 {
         float mt2 = (float) (mt*0.25);
         float finals2 = (float) (finals*0.35);
         float total= (float) (attend2+hw2+mt2+finals2);
-        if(total>=90){
+        if(total>90){
             System.out.println("You are pass with AA grade");
-        }else if(total>=80){
+        }else if(total>80 && total<=90){
             System.out.println("You are pass with AB grade");
-        }else if(total>=70){
+        }else if(total>70 && total<=80){
             System.out.println("You are pass with BB grade");
-        }else if(total>=60){
+        }else if(total>60 && total<=70){
             System.out.println("You are pass with BC grade");
-        }else if(total>=50){
+        }else if(total>50 && total<=60){
             System.out.println("You are pass with CC grade");
-        }else if(total>=40){
+        }else if(total>40 && total<=50){
             System.out.println("You are pass with CD grade");
         }else if(total>30){
             System.out.println("You are pass with DD grade");
