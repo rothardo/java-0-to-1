@@ -1,28 +1,64 @@
 import java.util.Scanner;
-public class Ques1 {
+public class Question1 {
     public static void main(String[] args) {
-        System.out.println("Enter the requested data below");
-        System.out.println("Age, Income, Credit, Employment Status (1 for employed, 0 for unemployed), Debt-to-income ratio, Payment history (1 for available, 0 for unavailable)");
-
+        System.out.println("Are you employed? (true/false)");
         Scanner input = new Scanner(System.in);
+        boolean es = input.nextBoolean();
+        float credit, income;
+       if (es) {
+           System.out.println("Are you having maintained/good Debt-To-Income Ratio and Payment History? (true/false)");
+           boolean statement = input.nextBoolean();
+           if (statement) {
+               System.out.println("What is your age?");
+               int age = input.nextInt();
+               if (age >= 25) {
+                   System.out.println("Enter your income");
+                   income = input.nextFloat();
+                   System.out.println("Enter your credit score");
+                   credit = input.nextFloat();
+                   if (income > 100000 && credit > 750) {
+                       System.out.println("You are Platinum");
+                   } else if (income > 60000 && credit > 700) {
+                       System.out.println("You are Gold");
+                   } else if (income > 30000 && credit > 650) {
+                       System.out.println("You are Silver");
+                   } else {
+                       System.out.println("You are Not Eligible as income and credit score is not meeting requirements");
+                   }
+               } else if (age >= 21 && age < 25) {
+                   System.out.println("Enter your income");
+                   income = input.nextFloat();
+                   System.out.println("Enter your credit score");
+                   credit = input.nextFloat();
+                   if (income > 60000 && credit > 700) {
+                       System.out.println("You are Gold");
+                   } else if (income > 30000 && credit > 650) {
+                       System.out.println("You are Silver");
+                   } else {
+                       System.out.println("You are Not Eligible as income and credit score is not meeting requirements");
+                   }
+               } else if (age >= 18 && age < 21) {
+                   System.out.println("Enter your income");
+                   income = input.nextFloat();
+                   System.out.println("Enter your credit score");
+                   credit = input.nextFloat();
+                   if (income > 30000 && credit > 650) {
+                       System.out.println("You are Silver");
+                   } else {
+                       System.out.println("You are Not Eligible as income and credit score is not meeting requirements");
+                   }
 
-        int age = input.nextInt();
-        float income = input.nextFloat();
-        float credit = input.nextFloat();
-        int es = input.nextInt();
-        float dti = input.nextFloat();
-        int ph = input.nextInt();
+               }else{
+                   System.out.println("You are Not eligible as you are underaged");
+               }
+           }else {
+               System.out.println("You are Not eligible");
 
-        if (age >= 18 && income > 30000 && credit > 650 && es == 1 && dti > 0 && ph == 1) {
-            System.out.println("You are Silver");
-        } else if (age >= 21 && income > 60000 && credit > 700 && es == 1 && dti > 0 && ph == 1) {
-            System.out.println("You are Gold");
-        } else if (age >= 25 && income > 100000 && credit > 750 && es == 1 && dti > 0 && ph == 1) {
-            System.out.println("You are Platinum");
-        } else {
-            System.out.println("You are Not Eligible");
-        }
+           }
+       }else{
+           System.out.println("Are you are eligible");
+       }
+    }}
 
-    }
-}
+
 
