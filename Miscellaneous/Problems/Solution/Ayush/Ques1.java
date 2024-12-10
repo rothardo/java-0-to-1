@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Question1 {
+public class Ques1 {
     public static void main(String[] args) {
         System.out.println("Are you employed? (true/false)");
         Scanner input = new Scanner(System.in);

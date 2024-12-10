@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Question1 {
+public class Ques2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the time of day (0-23) ");
