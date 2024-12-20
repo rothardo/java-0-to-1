@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class season {
+public class Season {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the month as 1 to 12");

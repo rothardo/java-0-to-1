@@ -1,4 +1,4 @@
-public class even_odd {
+public class Even_odd {
     public static void main(String [] args){
         int num = 12;
         if(num%2==0){

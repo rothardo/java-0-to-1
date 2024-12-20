@@ -1,4 +1,4 @@
-public class week {
+public class Week {
     public static void main(String[] args){
         int day =2;
         switch(day){
