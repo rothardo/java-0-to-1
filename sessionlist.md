@@ -86,6 +86,24 @@ Here is the updated version of the instructions for **Session 10**:
 - [IfElseExample.java](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/IfElseExample.java)
 - [SwitchExample.java](https://github.com/rothardo/java-0-to-1/blob/master/Session-10/SwitchExample.java)
 
+### **Session-11**
+- [Loops Overview](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Loops.md)
+- [For Loop](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/ForLoop.md)
+- [While Loop](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/WhileLoop.md)
+- [Do-While Loop](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/DoWhileLoop.md)
+- [Problems:](#problems-session-11)
+  - [Advanced Numbers](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/AdvancedNumbers.md)
+  - [ATM](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/Atm.md)
+  - [Complex Numbers](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/ComplexNumbers.md)
+  - [Data Processing](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/DataProcessing.md)
+  - [Fibonacci](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/Fibo.md)
+  - [Mixed Loop](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/MixedLoop.md)
+  - [Nested Loops](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/NestedLoops.md)
+  - [Prime Check](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/PrimeCheck.md)
+  - [Simple Interest](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/SimpleInterest.md)
+  - [User Validation](https://github.com/rothardo/java-0-to-1/blob/master/Session-11/Problems/UserValidation.md)
+- Solutions to the problems can be found in the "Solutions" directory within Session-11.
+
 ---
 
 ### How to Navigate:
