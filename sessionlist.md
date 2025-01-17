@@ -133,6 +133,14 @@ Here is the updated version of the instructions for **Session 10**:
   - [Sum of Squares](https://github.com/rothardo/java-0-to-1/blob/master/Session-12/Problems/SumOfSquares.md)
 - Solutions to the problems can be found in the "Solutions" directory within Session-12.
 
+### **Session-13**
+
+- [Instructions for Session-13](https://github.com/rothardo/java-0-to-1/blob/master/Session-13/Instructions.md)
+- [Strings](https://github.com/rothardo/java-0-to-1/blob/master/Session-13/Strings.md)
+- [Literal and New](https://github.com/rothardo/java-0-to-1/blob/master/Session-13/LiteralAndNew.md)
+- [String Constant Pool](https://github.com/rothardo/java-0-to-1/blob/master/Session-13/StringConstantPool.md)
+- [Serializable](https://github.com/rothardo/java-0-to-1/blob/master/Session-13/Serializable.md)
+- [Interfaces](https://github.com/rothardo/java-0-to-1/blob/master/Session-13/Interfaces.md)
 ---
 
 ### How to Navigate:
